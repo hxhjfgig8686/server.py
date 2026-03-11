@@ -1,1 +1,1 @@
-websockets
+pip install requests beautifulsoup4 python-telegram-bot phonenumbers
